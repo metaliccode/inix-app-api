@@ -4,6 +4,7 @@ For : Training building web app using React Js
 
 ## Instalasi
 
+### `npm install`
 ### `npm start`
 
 ## Run Server Fake Json 
@@ -12,4 +13,5 @@ For : Training building web app using React Js
 
 ## Demo App 
 
-https://www.awesomescreenshot.com/video/4614327?key=29b842cb97765c826b4d862737a67333
+<a href="https://www.awesomescreenshot.com/video/4614327?key=29b842cb97765c826b4d862737a67333">Liat demo app</a>
+
