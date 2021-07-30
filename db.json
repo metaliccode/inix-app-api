@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Ihsan Miftahul Huda",
+      "divisi": "Education",
+      "genre": "Laki - Laki",
+      "alamat": "Garut"
+    },
+    {
+      "id": 2,
+      "nama": "Rine Winsrizal",
+      "divisi": "Digital",
+      "genre": "Perempuan",
+      "alamat": "Jakarta"
+    },
+    {
+      "id": 3,
+      "nama": "Sasa",
+      "divisi": "Sales",
+      "genre": "Perempuan",
+      "alamat": "Bandung"
+    }
+  ]
+}
